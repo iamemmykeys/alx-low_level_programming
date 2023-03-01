@@ -5,7 +5,7 @@
  * 
  * an inputted number of bytes from src.
  *
- * @dest: The string to be appended to dest.
+ * @dest: The string to be appended to upon.
  *
  * @src: The string to be appended to dest.
  *
