@@ -2,9 +2,8 @@
 #include <stdio.h>
 
 /**
- * rot13 - Encoder rot13
+ * rot13 - Encoders rot13
  * @s: pointer to string params
- *
  * Returns: *s
  */
 
