@@ -7,7 +7,7 @@
  * Return: Always 0 (Success)
  */
 unsigned int _strspn(char *s, char *accept)
-{
+
 	unsigned int n = 0;
 	int r;
 	while (*s)
